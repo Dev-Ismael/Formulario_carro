@@ -1,6 +1,8 @@
-# README - Venda Seu Carro
+## Visualização do Projeto
 
-## Descrição
+Você pode visualizar o projeto em [https://formulario-carro.vercel.app/](https://formulario-carro.vercel.app/).
+
+## Descrição do Projeto
 
 Este projeto é uma aplicação web simples, desenvolvida com HTML e CSS, que permite aos usuários cadastrar seus veículos para venda. O formulário coleta informações essenciais sobre o carro, como título, preço, descrição, marca, modelo, kilometragem e opcionais. O objetivo é facilitar o processo de venda de automóveis, tornando-o mais eficiente e organizado.
 
